@@ -1,5 +1,6 @@
 ﻿using System;
-using KMSEmulator.Logging;
+using KMSEmulatorCore;
+using KMSEmulatorCore.Logging;
 
 namespace KMSEmulator.NET
 {
